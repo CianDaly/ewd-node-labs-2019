@@ -36,8 +36,11 @@ build/Release
 node_modules/
 jspm_packages/
 
+<<<<<<< HEAD
 #uncompleted labs
 
+=======
+>>>>>>> b791cfcf32d9f56aa4f978ab56aa03cd6172daa2
 # TypeScript v1 declaration files
 typings/
 
